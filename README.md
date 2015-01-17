@@ -1,5 +1,5 @@
 # installPlayStation3Eye
-Install pre-compiled module for PlayStation 3 Eye camera for NVIDIA Jetson TK1.
+Install pre-compiled module for PlayStation 3 Eye camera on NVIDIA Jetson TK1.
 
 This repository contains the compiled module (gspca_ov534.ko) for the PlayStation 3 Eye camera compiled for the NVIDIA Jetson TK1 Development kit under Linux for Tegra (LT4) 21.2.
 
