@@ -5,6 +5,6 @@ This repository contains the compiled driver (gspca_ov534.ko) for the PlayStatio
 
 This is has been compiled against the stock kernel: 3.10.40-ged4f697.
 
-The module will only work with this specific LT4 21.2 release. Included is a shell file to copy the driver to the correct directory location.
+The driver will only work with this specific LT4 21.2 release. Included is a shell file to copy the driver to the correct directory location.
 
 
